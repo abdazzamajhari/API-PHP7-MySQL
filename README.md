@@ -1,2 +1,4 @@
-# API-PHP7-MySQL
+# API PHP7 MySQL
 Creating API with PHP 7 and MySQL Database
+
+*Some data show double, if you correct the problem of my query please share it to us*
